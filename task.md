@@ -1,5 +1,8 @@
 ## 待办
-
+- 写一个chrome插件
+  > 了解一下先
+  [Chrome浏览器插件 hellworld](https://www.jianshu.com/p/51c650f98d9c)
+  [Chrome 插件API概览](https://developer.chrome.com/extensions/api_index)
 
 - 摸索自动化发布在几个平台上
 
