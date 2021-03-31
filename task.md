@@ -1,12 +1,27 @@
+## 一些原则
+ - 参照番茄工作法。 
+    - 15分钟 我自言自语的在这里学习， 敲代码。
+    - 5 ~ 10分钟 看一下有没有留言， 
+       - 有观众时， 交流一下
+       - 没有的话， 我就活动一下
+---
+
 ## 待办
 - 写一个chrome插件
   > 了解一下先
   [Chrome浏览器插件 hellworld](https://www.jianshu.com/p/51c650f98d9c)
   [Chrome 插件API概览](https://developer.chrome.com/extensions/api_index)
 
+  - 阅读一下， chrome插件相关的文档
+  - 看一下github 有没有成熟的 框架可以用。
+  - 在尝试写一写
+
 - 摸索自动化发布在几个平台上
 
 - 应该有一个互相跳转平台的模板
+
+- [Chrome Developers](https://developer.chrome.com/)
+  [中文版](http://chrome.cenchy.com/)
 
 ---
 ## 已办
