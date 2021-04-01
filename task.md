@@ -13,8 +13,13 @@
   [Chrome 插件API概览](https://developer.chrome.com/extensions/api_index)
 
   - 阅读一下， chrome插件相关的文档
+    - 看了下中文文档， browser_action
   - 看一下github 有没有成熟的 框架可以用。
   - 在尝试写一写
+
+  - 需要写一个简单的canvas 
+    - 写一个静态的（找回canvas api的记忆）
+    - 写一个动态的渲染到这个扩展icon上
 
 - 摸索自动化发布在几个平台上
 
