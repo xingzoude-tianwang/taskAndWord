@@ -5,7 +5,7 @@
  - 目前是干了两年的前端开发，
 正在努力成为高级开发工程师~
  - 欢迎各位同学来提需求~
- - [bilibili直播地址](https://live.bilibili.com/22950505?from=search&seid=17407349747116234290)
+ - [bilibili直播地址](https://live.bilibili.com/22950505)
 
  <img alt="bilibili直播地址" src="./qrcode_live.bilibili.com.png" width="50%" height="50%" />
 
@@ -28,10 +28,8 @@
        - 有观众时， 交流一下
        - 没有的话， 我就活动一下
 ---
+## Ing (直播中此刻正在做的事情-直播同步)
 
-## 待办
-- 每次开直播时， 把几个主要的地址发一下
-  - 项目地址 - 就这个文档地址
 - 写一个chrome插件
   > 了解一下先
   [Chrome浏览器插件 hellworld](https://www.jianshu.com/p/51c650f98d9c)
@@ -45,6 +43,10 @@
   - 需要写一个简单的canvas 
     - 写一个静态的（找回canvas api的记忆）
     - 写一个动态的渲染到这个扩展icon上
+
+## 待办
+- 每次开直播时， 把几个主要的地址发一下
+  - 项目地址 - 就这个文档地址
 
 - 摸索自动化发布在几个平台上
 
