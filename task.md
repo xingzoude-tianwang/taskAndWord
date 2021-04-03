@@ -5,7 +5,7 @@
 正在努力成为高级开发工程师~
  - 欢迎各位同学来提需求~
  - [bilibili直播地址](https://live.bilibili.com/22950505?from=search&seid=17407349747116234290)
- ![直播地址](./qrcode_live.bilibili.com.png)
+ - ![直播地址](./qrcode_live.bilibili.com.png)
 
 ## 一些原则
  - 参照番茄工作法。 
