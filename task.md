@@ -5,8 +5,9 @@
  - 目前是干了两年的前端开发，
 正在努力成为高级开发工程师~
  - 欢迎各位同学来提需求~
- - [bilibili直播地址](https://live.bilibili.com/22950505?from=search&seid=17407349747116234290)
- - ![直播地址](./qrcode_live.bilibili.com.png)
+ <!-- - [bilibili直播地址](https://live.bilibili.com/22950505?from=search&seid=17407349747116234290)
+ - ![直播地址](./qrcode_live.bilibili.com.png) -->
+ <img alt="bilibili直播地址" src="./qrcode_live.bilibili.com.png" width="50%" height="50%" />
 
 ## 主线学习任务
 - 将一直在这个页面进行更新。
