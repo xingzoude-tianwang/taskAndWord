@@ -7,6 +7,8 @@
 ---
 
 ## 待办
+- 每次开直播时， 把几个主要的地址发一下
+  - 项目地址 - 就这个文档地址
 - 写一个chrome插件
   > 了解一下先
   [Chrome浏览器插件 hellworld](https://www.jianshu.com/p/51c650f98d9c)
