@@ -5,9 +5,16 @@
  - 目前是干了两年的前端开发，
 正在努力成为高级开发工程师~
  - 欢迎各位同学来提需求~
- <!-- - [bilibili直播地址](https://live.bilibili.com/22950505?from=search&seid=17407349747116234290)
- - ![直播地址](./qrcode_live.bilibili.com.png) -->
+ - [bilibili直播地址](https://live.bilibili.com/22950505?from=search&seid=17407349747116234290)
+
  <img alt="bilibili直播地址" src="./qrcode_live.bilibili.com.png" width="50%" height="50%" />
+
+ - 目前直播互动方式问题
+   - 大致是15分钟主播集中干自己的
+   - 5分钟跟观众交流。可以发到直播评论中~
+   - 会用下面这个计时器
+
+<img alt="番茄时钟" src="./fanqie-timer.png" width="50%" height="50%" />
 
 ## 主线学习任务
 - 将一直在这个页面进行更新。
