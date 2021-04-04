@@ -32,13 +32,17 @@
 感谢 祁陌090： 等你PL成功记得告诉我~ 我在这里标记一下， 哈哈哈
 
 - 写一个chrome插件
-  > 了解一下先
-  [Chrome浏览器插件 hellworld](https://www.jianshu.com/p/51c650f98d9c)
+  > <del> 了解一下先 
+  [Chrome浏览器插件 hellworld](https://www.jianshu.com/p/51c650f98d9c)</del>
+  <del>[中文版](http://chrome.cenchy.com/)</del>
+  - 什么中文版都不要看， 都是浪费时间，还是看英文文档。
+  - [Chrome Developers](https://developer.chrome.com/)
   [Chrome 插件API概览](https://developer.chrome.com/extensions/api_index)
 
   - 阅读一下， chrome插件相关的文档
-    - 看了下中文文档， browser_action
+    -  <del> 看了下中文文档， browser_action </del> 不要看中文文档
   - 看一下github 有没有成熟的 框架可以用。
+    - 找到一个 [vue的扩展框架](https://github.com/mubaidr/vue-chrome-extension-boilerplate)
   - 在尝试写一写
 
   - 需要写一个简单的canvas 
@@ -57,8 +61,7 @@
 
 - 应该有一个互相跳转平台的模板
 
-- [Chrome Developers](https://developer.chrome.com/)
-  [中文版](http://chrome.cenchy.com/)
+
 
 ---
 ## 已办
