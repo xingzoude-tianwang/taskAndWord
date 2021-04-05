@@ -30,7 +30,7 @@
 ---
 ## Ing (直播中此刻正在做的事情-直播同步)
 感谢 祁陌090： 等你PL成功记得告诉我~ 我在这里标记一下， 哈哈哈
-
+- 4月份学一波 chrome插件 : 争取交个作业。
 - 写一个chrome插件
   > <del> 了解一下先 
   [Chrome浏览器插件 hellworld](https://www.jianshu.com/p/51c650f98d9c)</del>
@@ -38,9 +38,14 @@
   - 什么中文版都不要看， 都是浪费时间，还是看英文文档。
   - [Chrome Developers](https://developer.chrome.com/)
   [Chrome 插件API概览](https://developer.chrome.com/extensions/api_index)
+  - [官方简单的例子可以配合看上面的api文档](https://github.com/GoogleChrome/chrome-extensions-samples)
+  - [一边看文档， 一边练习的小case](https://gitee.com/walking-king/chrome-extend-hello-world)
 
-  - 阅读一下， chrome插件相关的文档
-    -  <del> 看了下中文文档， browser_action </del> 不要看中文文档
+
+
+## 待办
+
+- chrome 插件 代办list
   - 看一下github 有没有成熟的 框架可以用。
     - 找到一个 [vue的扩展框架](https://github.com/mubaidr/vue-chrome-extension-boilerplate)
   - 在尝试写一写
@@ -49,13 +54,13 @@
     - 写一个静态的（找回canvas api的记忆）
     - 写一个动态的渲染到这个扩展icon上
 
-## 待办
+- 5月份争取进行 nuxt的学习
+
 - 每次开直播时， 把几个主要的地址发一下
   - 项目地址 - 就这个文档地址
 
 - vue3的学习
 
-- nuxt的学习
 
 - 摸索自动化发布在几个平台上
 
